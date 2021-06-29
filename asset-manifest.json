@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5fc2b5be.chunk.css",
+    "main.js": "/static/js/main.36a97b09.chunk.js",
+    "main.js.map": "/static/js/main.36a97b09.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a06e69b5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a06e69b5.js.map",
+    "static/css/2.cd8394d9.chunk.css": "/static/css/2.cd8394d9.chunk.css",
+    "static/js/2.6cb0d357.chunk.js": "/static/js/2.6cb0d357.chunk.js",
+    "static/js/2.6cb0d357.chunk.js.map": "/static/js/2.6cb0d357.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.cd8394d9.chunk.css.map": "/static/css/2.cd8394d9.chunk.css.map",
+    "static/css/main.5fc2b5be.chunk.css.map": "/static/css/main.5fc2b5be.chunk.css.map",
+    "static/js/2.6cb0d357.chunk.js.LICENSE.txt": "/static/js/2.6cb0d357.chunk.js.LICENSE.txt",
+    "static/media/lancia.3db229ef.png": "/static/media/lancia.3db229ef.png",
+    "static/media/logo-remove.62117911.png": "/static/media/logo-remove.62117911.png",
+    "static/media/massimo.c9e4dc73.jpg": "/static/media/massimo.c9e4dc73.jpg",
+    "static/media/panda.fdfe84be.png": "/static/media/panda.fdfe84be.png",
+    "static/media/slide1.c1268fc7.jpg": "/static/media/slide1.c1268fc7.jpg",
+    "static/media/slide2.a3cead35.jpg": "/static/media/slide2.a3cead35.jpg",
+    "static/media/slide3.5c10ae15.jpg": "/static/media/slide3.5c10ae15.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a06e69b5.js",
+    "static/css/2.cd8394d9.chunk.css",
+    "static/js/2.6cb0d357.chunk.js",
+    "static/css/main.5fc2b5be.chunk.css",
+    "static/js/main.36a97b09.chunk.js"
+  ]
+}
